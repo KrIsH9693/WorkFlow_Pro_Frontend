@@ -39,7 +39,7 @@ Installation
 Clone the repository and navigate into the frontend directory:
 
 Bash
-git clone <REPOSITORY_URL>
+git clone:  https://github.com/KrIsH9693/WorkFlow_Pro_Frontend.git
 cd frontend
 Install dependencies:
 
